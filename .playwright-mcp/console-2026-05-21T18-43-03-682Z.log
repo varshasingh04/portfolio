@@ -1,0 +1,83 @@
+[    6051ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:21550
+[  142705ms] ReferenceError: ProjectFallback is not defined
+    at ProjectCard (http://localhost:5173/src/components/sections/Projects.tsx?t=1779389126173:98:43)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+[  142711ms] ReferenceError: ProjectFallback is not defined
+    at ProjectCard (http://localhost:5173/src/components/sections/Projects.tsx?t=1779389126173:98:43)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+[  142722ms] ReferenceError: ProjectFallback is not defined
+    at ProjectCard (http://localhost:5173/src/components/sections/Projects.tsx?t=1779389126173:98:43)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+[  142722ms] ReferenceError: ProjectFallback is not defined
+    at ProjectCard (http://localhost:5173/src/components/sections/Projects.tsx?t=1779389126173:98:43)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+[  142751ms] [ERROR] The above error occurred in the <ProjectCard> component:
+
+    at ProjectCard (http://localhost:5173/src/components/sections/Projects.tsx?t=1779389126173:63:24)
+    at div
+    at div
+    at section
+    at Projects
+    at main
+    at div
+    at App (http://localhost:5173/src/App.tsx?t=1779387994232:35:3)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-JFBMSS3J.js?v=cc0a6beb:17704
+[  142756ms] [ERROR] The above error occurred in the <ProjectCard> component:
+
+    at ProjectCard (http://localhost:5173/src/components/sections/Projects.tsx?t=1779389126173:63:24)
+    at div
+    at div
+    at section
+    at Projects
+    at main
+    at div
+    at App (http://localhost:5173/src/App.tsx?t=1779387994232:35:3)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-JFBMSS3J.js?v=cc0a6beb:17704
+[  142763ms] ReferenceError: ProjectFallback is not defined
+    at ProjectCard (http://localhost:5173/src/components/sections/Projects.tsx?t=1779389126173:98:43)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15924:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:18736:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:18879:28)
+[  143317ms] [LOG] THREE.WebGLRenderer: Context Lost. @ http://localhost:5173/node_modules/.vite/deps/chunk-G4VKLGV4.js?v=cc0a6beb:17834

@@ -1,0 +1,420 @@
+- generic [ref=e3]:
+  - banner:
+    - navigation [ref=e6]:
+      - link "Home" [ref=e7] [cursor=pointer]:
+        - /url: "#hero"
+        - generic [ref=e10]: V
+        - generic [ref=e11]: Varsha
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link "About" [ref=e14] [cursor=pointer]:
+            - /url: "#about"
+        - listitem [ref=e15]:
+          - link "Skills" [ref=e16] [cursor=pointer]:
+            - /url: "#skills"
+        - listitem [ref=e17]:
+          - link "Experience" [ref=e18] [cursor=pointer]:
+            - /url: "#experience"
+        - listitem [ref=e19]:
+          - link "Projects" [ref=e20] [cursor=pointer]:
+            - /url: "#projects"
+        - listitem [ref=e21]:
+          - link "Education" [ref=e22] [cursor=pointer]:
+            - /url: "#education"
+        - listitem [ref=e23]:
+          - link "Certs" [ref=e24] [cursor=pointer]:
+            - /url: "#certifications"
+        - listitem [ref=e25]:
+          - link "Contact" [ref=e26] [cursor=pointer]:
+            - /url: "#contact"
+      - link "Resume" [ref=e27] [cursor=pointer]:
+        - /url: /resume.pdf
+  - main [ref=e31]:
+    - generic [ref=e32]:
+      - generic [ref=e33]:
+        - generic [ref=e36]: Open to fresher & internship roles · Raipur
+        - heading "VARSHA CHOUHAN" [level=1] [ref=e37]:
+          - generic [ref=e38]: VARSHA
+          - generic [ref=e39]: CHOUHAN
+        - paragraph [ref=e40]: Full Stack · Java Backend · MERN Developer. Building production AI/LLM/RAG apps with Spring Boot, React, and Next.js.
+        - generic [ref=e41]:
+          - link "See my work" [ref=e42] [cursor=pointer]:
+            - /url: "#projects"
+            - text: See my work
+            - img [ref=e43]
+          - link "Get in touch" [ref=e45] [cursor=pointer]:
+            - /url: "#contact"
+          - generic [ref=e46]:
+            - link "GitHub" [ref=e47] [cursor=pointer]:
+              - /url: https://github.com/varshasingh04
+              - img [ref=e48]
+            - link "LinkedIn" [ref=e50] [cursor=pointer]:
+              - /url: https://linkedin.com/in/varshasingh04
+              - img [ref=e51]
+            - link "Email" [ref=e55] [cursor=pointer]:
+              - /url: mailto:varshachouhan0410@gmail.com
+              - img [ref=e56]
+      - generic [ref=e60]: Scroll
+    - generic [ref=e64]:
+      - generic [ref=e65]:
+        - paragraph [ref=e66]: About
+        - heading "Who's behind the keyboard." [level=2] [ref=e67]
+        - paragraph [ref=e68]: Final-year B.Tech Computer Science student at MATS University with backend internship experience at Paladin Educators LLP, where I built production payment-confirmation APIs in Java and Spring Boot. Skilled in Spring Boot microservices, MERN Stack, React Native, RAG pipelines, and event-driven architectures.
+      - generic [ref=e69]:
+        - generic [ref=e72]:
+          - img "Varsha (AI portrait)" [ref=e73]
+          - generic [ref=e76]:
+            - generic [ref=e77]: Varsha
+            - generic [ref=e78]: Full Stack Developer
+          - generic [ref=e80]: Available
+        - generic [ref=e82]:
+          - paragraph [ref=e84]: Independent developer of an AI-powered Android business card scanner (Vamra, Play Store submitted) and three other production projects spanning full stack, AI, and LLM applications.
+          - generic [ref=e85]:
+            - generic [ref=e86]:
+              - generic [ref=e87]: "4"
+              - generic [ref=e88]: Production Projects
+            - generic [ref=e89]:
+              - generic [ref=e90]: "1"
+              - generic [ref=e91]: Play Store App
+            - generic [ref=e92]:
+              - generic [ref=e93]: 100+
+              - generic [ref=e94]: LeetCode DSA
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - generic [ref=e97]: Location
+              - generic [ref=e98]: Raipur, Chhattisgarh, India
+            - generic [ref=e99]:
+              - generic [ref=e100]: Status
+              - generic [ref=e101]: Final-year B.Tech
+            - generic [ref=e102]:
+              - generic [ref=e103]: Email
+              - generic [ref=e104]: varshachouhan0410@gmail.com
+    - generic [ref=e106]:
+      - generic [ref=e107]:
+        - paragraph [ref=e108]: Skills
+        - heading "The tools I wield." [level=2] [ref=e109]
+        - paragraph [ref=e110]: Six stacks. Years of polish. AI/LLM/RAG is where I bring the most differentiated value.
+      - generic [ref=e111]:
+        - button "Languages" [ref=e112] [cursor=pointer]
+        - button "Backend" [ref=e113] [cursor=pointer]
+        - button "Frontend & Mobile" [ref=e114] [cursor=pointer]
+        - button "Databases" [ref=e115] [cursor=pointer]
+        - button "Cloud & DevOps" [ref=e116] [cursor=pointer]
+        - button "AI / LLM / RAG" [ref=e117] [cursor=pointer]
+      - generic [ref=e118]:
+        - generic [ref=e119]:
+          - heading "AI / LLM / RAG" [level=3] [ref=e120]
+          - paragraph [ref=e121]: My differentiator.
+        - generic [ref=e122]:
+          - generic [ref=e125]: LangGraph
+          - generic [ref=e126]:
+            - img [ref=e127]
+            - generic [ref=e129]: Spring AI
+          - generic [ref=e130]:
+            - img [ref=e131]
+            - generic [ref=e133]: OpenAI GPT-4o
+          - generic [ref=e134]:
+            - img [ref=e135]
+            - generic [ref=e137]: OpenAI Whisper
+          - generic [ref=e140]: Google Imagen
+          - generic [ref=e141]:
+            - img [ref=e142]
+            - generic [ref=e147]: Pinecone Vectors
+          - generic [ref=e150]: RAG Pipelines
+          - generic [ref=e153]: Vector Search
+          - generic [ref=e156]: OCR
+    - generic [ref=e158]:
+      - generic [ref=e159]:
+        - paragraph [ref=e160]: Experience
+        - heading "Where I've shipped." [level=2] [ref=e161]
+        - paragraph [ref=e162]: Real production code. Real payments. Real tests.
+      - article [ref=e165]:
+        - generic [ref=e168]:
+          - generic [ref=e169]:
+            - generic [ref=e170]:
+              - heading "Backend Development Intern" [level=3] [ref=e171]
+              - generic [ref=e172]: Paladin Educators LLP
+            - generic [ref=e173]:
+              - generic [ref=e174]: Aug 2025 - Oct 2025
+              - generic [ref=e175]: Remote, India
+          - list [ref=e176]:
+            - listitem [ref=e177]:
+              - generic [ref=e179]: Built and shipped the Payment Confirmation Module for the company's e-learning platform using Java 17 and Spring Boot 3, processing live course-purchase webhooks from Razorpay and Stripe.
+            - listitem [ref=e180]:
+              - generic [ref=e182]: Designed a secure webhook handler with HMAC signature verification, idempotency checks, and replay-attack protection, preventing duplicate enrollments on retried payment events.
+            - listitem [ref=e183]:
+              - generic [ref=e185]: Modeled Payment, Enrollment, and AuditLog entities in MySQL via Spring Data JPA and Hibernate, enforcing transactional consistency between payment status and user-enrollment updates.
+            - listitem [ref=e186]:
+              - generic [ref=e188]: Wrote unit and integration tests with JUnit 5 and Mockito, raising coverage on the payment module to 85%+ and catching three production-blocking edge cases before release.
+            - listitem [ref=e189]:
+              - generic [ref=e191]: Collaborated with senior developers in an Agile workflow using Git, GitHub, Jira, and code reviews, and documented all endpoints with OpenAPI / Swagger for the frontend team.
+          - generic [ref=e192]:
+            - generic [ref=e193]: Java 17
+            - generic [ref=e194]: Spring Boot 3
+            - generic [ref=e195]: Spring Data JPA
+            - generic [ref=e196]: MySQL
+            - generic [ref=e197]: JUnit 5
+            - generic [ref=e198]: Mockito
+            - generic [ref=e199]: Razorpay
+            - generic [ref=e200]: Stripe
+            - generic [ref=e201]: OpenAPI
+    - generic [ref=e203]:
+      - generic [ref=e204]:
+        - paragraph [ref=e205]: Projects
+        - heading "Things I've actually shipped." [level=2] [ref=e206]
+        - paragraph [ref=e207]: Four production projects spanning AI agents, RAG, mobile, and full-stack web.
+      - generic [ref=e208]:
+        - article [ref=e209]:
+          - generic [ref=e210]:
+            - img "Vamra" [ref=e211]
+            - generic [ref=e212]: Founder · Play Store submitted
+            - generic [ref=e213]: Feb 2026 - Mar 2026
+          - generic [ref=e214]:
+            - generic [ref=e215]:
+              - heading "Vamra" [level=3] [ref=e216]
+              - paragraph [ref=e217]: AI-Powered Business Card Scanner Android App
+            - paragraph [ref=e218]: Founder & Lead Developer. Scans business cards via camera and uses GPT-4o to extract structured contacts in under 4 seconds. Play Store submitted.
+            - generic [ref=e219]:
+              - generic [ref=e220]: React Native
+              - generic [ref=e221]: Expo
+              - generic [ref=e222]: GPT-4o
+              - generic [ref=e223]: SQLite
+              - generic [ref=e224]: Push Notifications
+            - generic [ref=e225]:
+              - generic "Live demo coming soon" [ref=e226]: Live · soon
+              - generic "Repo coming soon" [ref=e227]:
+                - img [ref=e228]
+                - text: Code · soon
+              - link "Ask me about it" [ref=e230] [cursor=pointer]:
+                - /url: "#contact"
+                - text: Ask me about it
+                - img [ref=e231]
+        - article [ref=e234]:
+          - generic [ref=e235]:
+            - generic [ref=e236]:
+              - generic [ref=e239]: AI Try-On
+              - img [ref=e241]
+              - generic [ref=e244]:
+                - generic [ref=e245]: Next.js
+                - generic [ref=e246]: Imagen
+                - generic [ref=e247]: Chrome MV3
+            - generic [ref=e248]: Jan 2025 - Apr 2025
+          - generic [ref=e249]:
+            - generic [ref=e250]:
+              - heading "VirtualFit AI" [level=3] [ref=e251]
+              - paragraph [ref=e252]: AI Virtual Try-On Platform & Photo Studio
+            - paragraph [ref=e253]: Shopify Extension + Spring Boot credit ledger + Chrome MV3 try-on delivering sub-3-second AI renders. Used by 50+ pilot startups.
+            - generic [ref=e254]:
+              - generic [ref=e255]: Next.js
+              - generic [ref=e256]: Spring Boot
+              - generic [ref=e257]: FastAPI
+              - generic [ref=e258]: Google Imagen
+              - generic [ref=e259]: Chrome MV3
+              - generic [ref=e260]: AWS S3
+              - generic [ref=e261]: "+2"
+            - generic [ref=e262]:
+              - generic "Live demo coming soon" [ref=e263]: Live · soon
+              - generic "Repo coming soon" [ref=e264]:
+                - img [ref=e265]
+                - text: Code · soon
+              - link "Ask me about it" [ref=e267] [cursor=pointer]:
+                - /url: "#contact"
+                - text: Ask me about it
+                - img [ref=e268]
+        - article [ref=e271]:
+          - generic [ref=e272]:
+            - generic [ref=e273]:
+              - generic [ref=e275]: RAG Pipeline
+              - img [ref=e302]
+              - generic [ref=e312]:
+                - generic [ref=e313]: Spring AI
+                - generic [ref=e314]: LangGraph
+                - generic [ref=e315]: Pinecone
+            - generic [ref=e316]: Oct 2024 - Dec 2024
+          - generic [ref=e317]:
+            - generic [ref=e318]:
+              - heading "LendingGPT" [level=3] [ref=e319]
+              - paragraph [ref=e320]: RAG-Powered Loan Document Intelligence
+            - paragraph [ref=e321]: Multi-step LangGraph RAG pipeline that grounds GPT-4o in Pinecone vectors. 91% accuracy on a 200-question loan FAQ benchmark.
+            - generic [ref=e322]:
+              - generic [ref=e323]: Java
+              - generic [ref=e324]: Spring Boot
+              - generic [ref=e325]: Spring AI
+              - generic [ref=e326]: LangGraph
+              - generic [ref=e327]: Pinecone
+              - generic [ref=e328]: GPT-4o
+              - generic [ref=e329]: "+3"
+            - generic [ref=e330]:
+              - generic "Live demo coming soon" [ref=e331]: Live · soon
+              - generic "Repo coming soon" [ref=e332]:
+                - img [ref=e333]
+                - text: Code · soon
+              - link "Ask me about it" [ref=e335] [cursor=pointer]:
+                - /url: "#contact"
+                - text: Ask me about it
+                - img [ref=e336]
+        - article [ref=e339]:
+          - generic [ref=e340]:
+            - img "PawVerse" [ref=e341]
+            - generic [ref=e342]: Apr 2024 - Jun 2024
+          - generic [ref=e343]:
+            - generic [ref=e344]:
+              - heading "PawVerse" [level=3] [ref=e345]
+              - paragraph [ref=e346]: AI Dog Community & Pet Services Finder
+            - paragraph [ref=e347]: Built an AI-powered pet community and services platform using Node.js, Express.js, MongoDB, and Mongoose, integrating Groq SDK for AI-driven content generation and smart recommendations.
+            - generic [ref=e348]:
+              - generic [ref=e349]: Node.js
+              - generic [ref=e350]: Express.js
+              - generic [ref=e351]: MongoDB
+              - generic [ref=e352]: Mongoose
+              - generic [ref=e353]: Groq SDK
+              - generic [ref=e354]: React
+              - generic [ref=e355]: "+1"
+            - generic [ref=e356]:
+              - generic "Live demo coming soon" [ref=e357]: Live · soon
+              - generic "Repo coming soon" [ref=e358]:
+                - img [ref=e359]
+                - text: Code · soon
+              - link "Ask me about it" [ref=e361] [cursor=pointer]:
+                - /url: "#contact"
+                - text: Ask me about it
+                - img [ref=e362]
+    - generic [ref=e366]:
+      - generic [ref=e367]:
+        - paragraph [ref=e368]: Education
+        - heading "The formal stuff." [level=2] [ref=e369]
+        - paragraph [ref=e370]: Bachelor of Technology in Computer Science & Engineering.
+      - generic [ref=e371]:
+        - generic [ref=e372]:
+          - generic [ref=e373]:
+            - generic [ref=e374]: Bachelor of Technology
+            - heading "Computer Science and Engineering" [level=3] [ref=e375]
+            - generic [ref=e376]: MATS University
+            - generic [ref=e377]: Raipur, Chhattisgarh, India
+          - generic [ref=e378]:
+            - generic [ref=e379]: 2022 - 2026
+            - generic [ref=e380]: Final-year · Expected 2026 · Open to fresher roles & internships
+        - generic [ref=e381]:
+          - generic [ref=e382]: Relevant Coursework
+          - generic [ref=e383]:
+            - generic [ref=e384]: Data Structures & Algorithms
+            - generic [ref=e385]: Database Management Systems
+            - generic [ref=e386]: Operating Systems
+            - generic [ref=e387]: Computer Networks
+            - generic [ref=e388]: Software Engineering
+            - generic [ref=e389]: Object-Oriented Programming
+    - generic [ref=e391]:
+      - generic [ref=e392]:
+        - paragraph [ref=e393]: Certifications & Achievements
+        - heading "Always learning." [level=2] [ref=e394]
+        - paragraph [ref=e395]: Self-driven study + LeetCode reps.
+      - generic [ref=e396]:
+        - generic [ref=e397]:
+          - generic [ref=e398]:
+            - img [ref=e400]
+            - generic [ref=e403]: 100+ hrs
+          - heading "Java Programming Masterclass" [level=3] [ref=e404]
+          - generic [ref=e405]: Udemy
+          - paragraph [ref=e406]: 100+ hours covering Core Java, OOP, Collections, Concurrency, and JDBC.
+        - generic [ref=e407]:
+          - generic [ref=e408]:
+            - img [ref=e410]
+            - generic [ref=e413]: 80+ hrs
+          - heading "The Complete MERN Stack Developer" [level=3] [ref=e414]
+          - generic [ref=e415]: Udemy
+          - paragraph [ref=e416]: 80+ hours covering MongoDB, Express.js, React.js, and Node.js with REST API design.
+        - generic [ref=e417]:
+          - generic [ref=e418]:
+            - img [ref=e420]
+            - generic [ref=e423]: 100+ solved
+          - heading "Data Structures & Algorithms" [level=3] [ref=e424]
+          - generic [ref=e425]: LeetCode
+          - paragraph [ref=e426]: Solved 100+ DSA problems across Arrays, Trees, Dynamic Programming, and Graphs.
+    - generic [ref=e428]:
+      - generic [ref=e429]:
+        - paragraph [ref=e430]: Resume
+        - heading "Built from projects, curiosity, and continuous learning." [level=2] [ref=e431]
+        - paragraph [ref=e432]: Formatted for recruiters and ATS platforms alike.
+      - generic [ref=e433]:
+        - link "Open resume PDF in a new tab" [ref=e434] [cursor=pointer]:
+          - /url: /resume.pdf
+          - generic [ref=e436]:
+            - iframe [ref=e437]
+            - generic [ref=e439]: PDF · 2 pages
+        - generic [ref=e440]:
+          - heading "Get the full picture." [level=3] [ref=e441]
+          - paragraph [ref=e442]: Skills, experience, projects, and education — all in a single recruiter-friendly PDF. ATS-optimized and updated for 2026.
+          - link "View Resume" [ref=e444] [cursor=pointer]:
+            - /url: /resume.pdf
+            - img [ref=e445]
+            - text: View Resume
+          - generic [ref=e449]:
+            - generic [ref=e450]:
+              - generic [ref=e451]: Format
+              - generic [ref=e452]: PDF / A4
+            - generic [ref=e453]:
+              - generic [ref=e454]: Length
+              - generic [ref=e455]: 2 pages
+    - generic [ref=e457]:
+      - generic [ref=e458]:
+        - paragraph [ref=e459]: Contact
+        - heading "Let's build something." [level=2] [ref=e460]
+        - paragraph [ref=e461]: Open to fresher full-stack, Java backend, and MERN roles. Replies usually within 24 hours.
+      - generic [ref=e462]:
+        - generic [ref=e463]:
+          - generic [ref=e464]:
+            - generic [ref=e465]:
+              - text: Your name
+              - textbox [ref=e466]
+            - generic [ref=e467]:
+              - text: Your email
+              - textbox [ref=e468]
+          - generic [ref=e469]:
+            - text: Message
+            - textbox "Tell me a bit about your project, role, or just say hi." [ref=e470]
+          - generic [ref=e471]:
+            - button "Send via Gmail" [ref=e472] [cursor=pointer]:
+              - text: Send via Gmail
+              - img [ref=e473]
+            - generic [ref=e476]: Opens a new Gmail tab with the message pre-filled.
+        - generic [ref=e477]:
+          - generic [ref=e478]:
+            - generic [ref=e479]: Direct
+            - generic [ref=e480]:
+              - link "Click to email varshachouhan0410@gmail.com Copy email to clipboard" [ref=e481] [cursor=pointer]:
+                - /url: mailto:varshachouhan0410@gmail.com?subject=Hi%20Varsha%20%E2%80%94%20from%20your%20portfolio
+                - generic [ref=e482]:
+                  - generic [ref=e483]:
+                    - img [ref=e484]
+                    - generic [ref=e486]:
+                      - generic [ref=e487]: Click to email
+                      - generic [ref=e488]: varshachouhan0410@gmail.com
+                  - button "Copy email to clipboard" [ref=e489]:
+                    - img [ref=e490]
+              - generic [ref=e493]:
+                - img [ref=e494]
+                - generic [ref=e497]: Raipur, Chhattisgarh, India
+          - generic [ref=e498]:
+            - generic [ref=e499]: Find me
+            - generic [ref=e500]:
+              - link "GitHub varshasingh04" [ref=e501] [cursor=pointer]:
+                - /url: https://github.com/varshasingh04
+                - img [ref=e502]
+                - generic [ref=e504]:
+                  - generic [ref=e505]: GitHub
+                  - generic [ref=e506]: varshasingh04
+              - link "LinkedIn varshasingh04" [ref=e507] [cursor=pointer]:
+                - /url: https://linkedin.com/in/varshasingh04
+                - img [ref=e508]
+                - generic [ref=e510]:
+                  - generic [ref=e511]: LinkedIn
+                  - generic [ref=e512]: varshasingh04
+              - link "Email varshachouhan0410@gmail.com" [ref=e513] [cursor=pointer]:
+                - /url: mailto:varshachouhan0410@gmail.com
+                - img [ref=e514]
+                - generic [ref=e516]:
+                  - generic [ref=e517]: Email
+                  - generic [ref=e518]: varshachouhan0410@gmail.com
+      - generic [ref=e519]:
+        - generic [ref=e520]: Designed & built by Varsha Chouhan · 2026
+        - generic [ref=e521]: Made with React · three.js · GSAP · Tailwind

@@ -1,0 +1,322 @@
+- generic [ref=e3]:
+  - banner:
+    - navigation [ref=e10]:
+      - link "Home" [ref=e11] [cursor=pointer]:
+        - /url: "#hero"
+        - generic [ref=e14]: V
+        - generic [ref=e15]: Varsha
+      - list [ref=e16]:
+        - listitem [ref=e17]:
+          - link "About" [ref=e18] [cursor=pointer]:
+            - /url: "#about"
+        - listitem [ref=e19]:
+          - link "Skills" [ref=e20] [cursor=pointer]:
+            - /url: "#skills"
+        - listitem [ref=e21]:
+          - link "Projects" [ref=e22] [cursor=pointer]:
+            - /url: "#projects"
+        - listitem [ref=e23]:
+          - link "Education" [ref=e24] [cursor=pointer]:
+            - /url: "#education"
+        - listitem [ref=e25]:
+          - link "Certs" [ref=e26] [cursor=pointer]:
+            - /url: "#certifications"
+        - listitem [ref=e27]:
+          - link "Contact" [ref=e28] [cursor=pointer]:
+            - /url: "#contact"
+      - link "Resume" [ref=e29] [cursor=pointer]:
+        - /url: /resume.pdf
+  - main [ref=e33]:
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - generic [ref=e38]: Open to fresher & internship roles · Gurugram
+        - heading "VARSHA CHOUHAN" [level=1] [ref=e39]:
+          - generic [ref=e40]: VARSHA
+          - generic [ref=e41]: CHOUHAN
+        - paragraph [ref=e42]: Full Stack · Java Backend · MERN Developer. Building production AI/LLM/RAG apps with Spring Boot, React, and Next.js.
+        - generic [ref=e43]:
+          - link "See my work" [ref=e44] [cursor=pointer]:
+            - /url: "#projects"
+            - text: See my work
+            - img [ref=e45]
+          - link "Get in touch" [ref=e47] [cursor=pointer]:
+            - /url: "#contact"
+          - generic [ref=e48]:
+            - link "GitHub" [ref=e49] [cursor=pointer]:
+              - /url: https://github.com/varshasingh04
+              - img [ref=e50]
+            - link "LinkedIn" [ref=e52] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/varsha-chouhan-4290342a7/
+              - img [ref=e53]
+            - link "Email" [ref=e57] [cursor=pointer]:
+              - /url: mailto:varshachouhan0410@gmail.com
+              - img [ref=e58]
+      - generic [ref=e62]: Scroll
+    - generic [ref=e66]:
+      - generic [ref=e67]:
+        - paragraph [ref=e68]: About
+        - heading "Who's behind the keyboard." [level=2] [ref=e69]
+        - paragraph [ref=e70]: Final-year B.Tech Computer Science student at MATS University with backend internship experience at Paladin Educators LLP, where I built production payment-confirmation APIs in Java and Spring Boot. Skilled in Spring Boot microservices, MERN Stack, React Native, RAG pipelines, and event-driven architectures.
+      - generic [ref=e71]:
+        - generic [ref=e74]:
+          - img "Varsha (AI portrait)" [ref=e75]
+          - generic [ref=e78]:
+            - generic [ref=e79]: Varsha
+            - generic [ref=e80]: Full Stack Developer
+          - generic [ref=e82]: Available
+        - generic [ref=e84]:
+          - paragraph [ref=e86]: Independent developer of an AI-powered Android business card scanner (Vamra, Play Store submitted) and a full-stack pet care assistant powered by Node.js, MongoDB, and the Groq SDK.
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - generic [ref=e89]: "2"
+              - generic [ref=e90]: Production Projects
+            - generic [ref=e91]:
+              - generic [ref=e92]: "1"
+              - generic [ref=e93]: Play Store App
+            - generic [ref=e94]:
+              - generic [ref=e95]: 100+
+              - generic [ref=e96]: LeetCode DSA
+          - generic [ref=e97]:
+            - generic [ref=e98]:
+              - generic [ref=e99]: Location
+              - generic [ref=e100]: Gurugram, Haryana, India
+            - generic [ref=e101]:
+              - generic [ref=e102]: Status
+              - generic [ref=e103]: Final-year B.Tech
+            - generic [ref=e104]:
+              - generic [ref=e105]: Email
+              - generic [ref=e106]: varshachouhan0410@gmail.com
+    - generic [ref=e108]:
+      - generic [ref=e109]:
+        - paragraph [ref=e110]: Skills
+        - heading "The tools I wield." [level=2] [ref=e111]
+        - paragraph [ref=e112]: Six stacks. Years of polish. AI/LLM/RAG is where I bring the most differentiated value.
+      - generic [ref=e113]:
+        - button "Languages" [ref=e114] [cursor=pointer]
+        - button "Backend" [ref=e115] [cursor=pointer]
+        - button "Frontend & Mobile" [ref=e116] [cursor=pointer]
+        - button "Databases" [ref=e117] [cursor=pointer]
+        - button "Cloud & DevOps" [ref=e118] [cursor=pointer]
+        - button "AI / LLM / RAG" [ref=e119] [cursor=pointer]
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - heading "AI / LLM / RAG" [level=3] [ref=e122]
+          - paragraph [ref=e123]: My differentiator.
+        - generic [ref=e124]:
+          - generic [ref=e127]: LangGraph
+          - generic [ref=e128]:
+            - img [ref=e129]
+            - generic [ref=e131]: Spring AI
+          - generic [ref=e132]:
+            - img [ref=e133]
+            - generic [ref=e135]: OpenAI GPT-4o
+          - generic [ref=e136]:
+            - img [ref=e137]
+            - generic [ref=e139]: OpenAI Whisper
+          - generic [ref=e142]: Google Imagen
+          - generic [ref=e143]:
+            - img [ref=e144]
+            - generic [ref=e149]: Pinecone Vectors
+          - generic [ref=e152]: RAG Pipelines
+          - generic [ref=e155]: Vector Search
+          - generic [ref=e158]: OCR
+    - generic [ref=e160]:
+      - generic [ref=e161]:
+        - paragraph [ref=e162]: Projects
+        - heading "Things I've actually shipped." [level=2] [ref=e163]
+        - paragraph [ref=e164]: Two production projects spanning AI mobile and full-stack web.
+      - generic [ref=e165]:
+        - article [ref=e166]:
+          - generic [ref=e167]:
+            - img "Vamra" [ref=e168]
+            - generic [ref=e169]: Creator · Play Store submitted
+            - generic [ref=e170]: Feb 2026 - Mar 2026
+          - generic [ref=e171]:
+            - generic [ref=e172]:
+              - heading "Vamra" [level=3] [ref=e173]
+              - paragraph [ref=e174]: AI-Powered Business Card Scanner Android App
+            - paragraph [ref=e175]: Creator & Developer. Scans business cards via camera and uses GPT-4o to extract structured contacts in under 4 seconds. Play Store submitted.
+            - generic [ref=e176]:
+              - generic [ref=e177]: React Native
+              - generic [ref=e178]: Expo
+              - generic [ref=e179]: GPT-4o
+              - generic [ref=e180]: SQLite
+              - generic [ref=e181]: Push Notifications
+            - generic [ref=e182]:
+              - generic "Live demo coming soon" [ref=e183]: Live · soon
+              - generic "Repo coming soon" [ref=e184]:
+                - img [ref=e185]
+                - text: Code · soon
+              - link "Ask me about it" [ref=e187] [cursor=pointer]:
+                - /url: "#contact"
+                - text: Ask me about it
+                - img [ref=e188]
+        - article [ref=e191]:
+          - generic [ref=e192]:
+            - img "PawCare" [ref=e193]
+            - generic [ref=e194]: Apr 2024 - Jun 2024
+          - generic [ref=e195]:
+            - generic [ref=e196]:
+              - heading "PawCare" [level=3] [ref=e197]
+              - paragraph [ref=e198]: AI Pet Care Assistant
+            - paragraph [ref=e199]: Built an AI-powered pet community and services platform using Node.js, Express.js, MongoDB, and Mongoose, integrating Groq SDK for AI-driven content generation and smart recommendations.
+            - generic [ref=e200]:
+              - generic [ref=e201]: Node.js
+              - generic [ref=e202]: Express.js
+              - generic [ref=e203]: MongoDB
+              - generic [ref=e204]: Mongoose
+              - generic [ref=e205]: Groq SDK
+              - generic [ref=e206]: React
+              - generic [ref=e207]: "+1"
+            - generic [ref=e208]:
+              - link "Live" [ref=e209] [cursor=pointer]:
+                - /url: https://client-mu-orcin.vercel.app/
+                - text: Live
+                - img [ref=e210]
+              - generic "Repo coming soon" [ref=e214]:
+                - img [ref=e215]
+                - text: Code · soon
+              - link "Ask me about it" [ref=e217] [cursor=pointer]:
+                - /url: "#contact"
+                - text: Ask me about it
+                - img [ref=e218]
+    - generic [ref=e222]:
+      - generic [ref=e223]:
+        - paragraph [ref=e224]: Education
+        - heading "The formal stuff." [level=2] [ref=e225]
+        - paragraph [ref=e226]: Bachelor of Technology in Computer Science & Engineering.
+      - generic [ref=e227]:
+        - generic [ref=e228]:
+          - generic [ref=e229]:
+            - generic [ref=e230]: Bachelor of Technology
+            - heading "Computer Science and Engineering" [level=3] [ref=e231]
+            - generic [ref=e232]: MATS University
+            - generic [ref=e233]: Raipur, Chhattisgarh, India
+          - generic [ref=e234]:
+            - generic [ref=e235]: 2022 - 2026
+            - generic [ref=e236]: Final-year · Expected 2026 · Open to fresher roles & internships
+        - generic [ref=e237]:
+          - generic [ref=e238]: Relevant Coursework
+          - generic [ref=e239]:
+            - generic [ref=e240]: Data Structures & Algorithms
+            - generic [ref=e241]: Database Management Systems
+            - generic [ref=e242]: Operating Systems
+            - generic [ref=e243]: Computer Networks
+            - generic [ref=e244]: Software Engineering
+            - generic [ref=e245]: Object-Oriented Programming
+    - generic [ref=e247]:
+      - generic [ref=e248]:
+        - paragraph [ref=e249]: Certifications & Achievements
+        - heading "Always learning." [level=2] [ref=e250]
+        - paragraph [ref=e251]: Self-driven study + LeetCode reps.
+      - generic [ref=e252]:
+        - generic [ref=e253]:
+          - generic [ref=e254]:
+            - img [ref=e256]
+            - generic [ref=e259]: 100+ hrs
+          - heading "Java Programming Masterclass" [level=3] [ref=e260]
+          - generic [ref=e261]: Udemy
+          - paragraph [ref=e262]: 100+ hours covering Core Java, OOP, Collections, Concurrency, and JDBC.
+        - generic [ref=e263]:
+          - generic [ref=e264]:
+            - img [ref=e266]
+            - generic [ref=e269]: 80+ hrs
+          - heading "The Complete MERN Stack Developer" [level=3] [ref=e270]
+          - generic [ref=e271]: Udemy
+          - paragraph [ref=e272]: 80+ hours covering MongoDB, Express.js, React.js, and Node.js with REST API design.
+        - generic [ref=e273]:
+          - generic [ref=e274]:
+            - img [ref=e276]
+            - generic [ref=e279]: 100+ solved
+          - heading "Data Structures & Algorithms" [level=3] [ref=e280]
+          - generic [ref=e281]: LeetCode
+          - paragraph [ref=e282]: Solved 100+ DSA problems across Arrays, Trees, Dynamic Programming, and Graphs.
+    - generic [ref=e284]:
+      - generic [ref=e285]:
+        - paragraph [ref=e286]: Resume
+        - heading "Built from projects, curiosity, and continuous learning." [level=2] [ref=e287]
+        - paragraph [ref=e288]: Formatted for recruiters and ATS platforms alike.
+      - generic [ref=e289]:
+        - link "Open resume PDF in a new tab" [ref=e290] [cursor=pointer]:
+          - /url: /resume.pdf
+          - generic [ref=e292]:
+            - iframe [ref=e293]:
+              
+            - generic [ref=e295]: PDF · 2 pages
+        - generic [ref=e296]:
+          - heading "Get the full picture." [level=3] [ref=e297]
+          - paragraph [ref=e298]: Skills, experience, projects, and education — all in a single recruiter-friendly PDF. ATS-optimized and updated for 2026.
+          - link "View Resume" [ref=e300] [cursor=pointer]:
+            - /url: /resume.pdf
+            - img [ref=e301]
+            - text: View Resume
+          - generic [ref=e305]:
+            - generic [ref=e306]:
+              - generic [ref=e307]: Format
+              - generic [ref=e308]: PDF / A4
+            - generic [ref=e309]:
+              - generic [ref=e310]: Length
+              - generic [ref=e311]: 2 pages
+    - generic [ref=e313]:
+      - generic [ref=e314]:
+        - paragraph [ref=e315]: Contact
+        - heading "Let's build something." [level=2] [ref=e316]
+        - paragraph [ref=e317]: Open to fresher full-stack, Java backend, and MERN roles. Replies usually within 24 hours.
+      - generic [ref=e318]:
+        - generic [ref=e319]:
+          - generic [ref=e320]:
+            - generic [ref=e321]:
+              - text: Your name
+              - textbox [ref=e322]
+            - generic [ref=e323]:
+              - text: Your email
+              - textbox [ref=e324]
+          - generic [ref=e325]:
+            - text: Message
+            - textbox "Tell me a bit about your project, role, or just say hi." [ref=e326]
+          - generic [ref=e327]:
+            - button "Send via Gmail" [ref=e328] [cursor=pointer]:
+              - text: Send via Gmail
+              - img [ref=e329]
+            - generic [ref=e332]: Opens a new Gmail tab with the message pre-filled.
+        - generic [ref=e333]:
+          - generic [ref=e334]:
+            - generic [ref=e335]: Direct
+            - generic [ref=e336]:
+              - link "Click to email varshachouhan0410@gmail.com Copy email to clipboard" [ref=e337] [cursor=pointer]:
+                - /url: mailto:varshachouhan0410@gmail.com?subject=Hi%20Varsha%20%E2%80%94%20from%20your%20portfolio
+                - generic [ref=e338]:
+                  - generic [ref=e339]:
+                    - img [ref=e340]
+                    - generic [ref=e342]:
+                      - generic [ref=e343]: Click to email
+                      - generic [ref=e344]: varshachouhan0410@gmail.com
+                  - button "Copy email to clipboard" [ref=e345]:
+                    - img [ref=e346]
+              - generic [ref=e349]:
+                - img [ref=e350]
+                - generic [ref=e353]: Gurugram, Haryana, India
+          - generic [ref=e354]:
+            - generic [ref=e355]: Find me
+            - generic [ref=e356]:
+              - link "GitHub varshasingh04" [ref=e357] [cursor=pointer]:
+                - /url: https://github.com/varshasingh04
+                - img [ref=e358]
+                - generic [ref=e360]:
+                  - generic [ref=e361]: GitHub
+                  - generic [ref=e362]: varshasingh04
+              - link "LinkedIn varsha-chouhan" [ref=e363] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/varsha-chouhan-4290342a7/
+                - img [ref=e364]
+                - generic [ref=e366]:
+                  - generic [ref=e367]: LinkedIn
+                  - generic [ref=e368]: varsha-chouhan
+              - link "Email varshachouhan0410@gmail.com" [ref=e369] [cursor=pointer]:
+                - /url: mailto:varshachouhan0410@gmail.com
+                - img [ref=e370]
+                - generic [ref=e372]:
+                  - generic [ref=e373]: Email
+                  - generic [ref=e374]: varshachouhan0410@gmail.com
+      - generic [ref=e375]:
+        - generic [ref=e376]: Designed & built by Varsha Chouhan · 2026
+        - generic [ref=e377]: Made with React · three.js · GSAP · Tailwind

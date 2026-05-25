@@ -1,0 +1,86 @@
+[     193ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:21550
+[  628831ms] TypeError: Cannot read properties of undefined (reading 'label')
+    at Skills (http://localhost:5173/src/components/sections/Skills.tsx?t=1779554583536:88:130)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+[  628863ms] TypeError: Cannot read properties of undefined (reading 'label')
+    at Skills (http://localhost:5173/src/components/sections/Skills.tsx?t=1779554583536:88:130)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15924:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+[  628890ms] [ERROR] The above error occurred in the <Skills> component:
+
+    at Skills (http://localhost:5173/src/components/sections/Skills.tsx?t=1779554583536:25:31)
+    at main
+    at div
+    at App (http://localhost:5173/src/App.tsx?t=1779554583536:34:3)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-JFBMSS3J.js?v=cc0a6beb:17704
+[  628898ms] TypeError: Cannot read properties of undefined (reading 'label')
+    at Skills (http://localhost:5173/src/components/sections/Skills.tsx?t=1779554583536:88:130)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at updateFunctionComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14582:28)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15924:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:18736:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:18879:28)
+[  629434ms] [LOG] THREE.WebGLRenderer: Context Lost. @ http://localhost:5173/node_modules/.vite/deps/chunk-G4VKLGV4.js?v=cc0a6beb:17834
+[  642694ms] TypeError: Cannot read properties of undefined (reading 'label')
+    at Skills (http://localhost:5173/src/components/sections/Skills.tsx?t=1779554597373:88:130)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+[  642744ms] TypeError: Cannot read properties of undefined (reading 'label')
+    at Skills (http://localhost:5173/src/components/sections/Skills.tsx?t=1779554597373:88:130)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+[  642769ms] [ERROR] The above error occurred in the <Skills> component:
+
+    at Skills (http://localhost:5173/src/components/sections/Skills.tsx?t=1779554597373:25:31)
+    at main
+    at div
+    at App (http://localhost:5173/src/App.tsx?t=1779554597373:34:3)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-JFBMSS3J.js?v=cc0a6beb:17704
+[  642771ms] TypeError: Cannot read properties of undefined (reading 'label')
+    at Skills (http://localhost:5173/src/components/sections/Skills.tsx?t=1779554597373:88:130)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:15914:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:18736:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-YCOEJRGR.js?v=cc0a6beb:18879:28)
