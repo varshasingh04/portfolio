@@ -29,13 +29,9 @@ export function Skills() {
                 active === c.id
                   ? "bg-cyan-glow text-ink-950 border-cyan-glow shadow-glow-cyan"
                   : "bg-white/[0.03] text-zinc-300 border-white/10 hover:bg-white/[0.06] hover:text-white",
-                c.id === "ai" && active !== c.id && "border-cyan-glow/40 text-cyan-glow",
               )}
             >
               {c.label}
-              {c.id === "ai" && active !== c.id && (
-                <span className="ml-1.5 text-[10px] opacity-70">★</span>
-              )}
             </button>
           ))}
         </div>
