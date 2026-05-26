@@ -18,6 +18,12 @@ dist-ssr
 *.png
 *.jpg
 *.jpeg
+# Allow only selected images
+!public/images/projects/pawcare.png
+!public/images/projects/vamra.png
+!public/images/avatar-ai.png
+!public/images/avatar-real.png
+*.tsbuildinfo
 
 npm-debug.log*
 yarn-debug.log*
